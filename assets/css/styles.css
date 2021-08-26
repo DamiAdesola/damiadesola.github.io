@@ -486,19 +486,13 @@ img{
     font-weight: var(--font-medium);
 }
 
-.skills__bar,
-.skills__percentage{
+.skills__bar{
     height: 5px;
     border-radius: .25rem;
 }
 
 .skills__bar{
     background-color: var(--first-color-lighter);
-}
-
-.skills__percentage{
-    display: block;
-    background-color: var(--first-color);
 }
 
 .skills__html{
